@@ -1,1 +1,1 @@
-# Amazon-clone
+<a href="https://siddhant2002.github.io/Amazon-clone/">Click to view the webpage</a>
