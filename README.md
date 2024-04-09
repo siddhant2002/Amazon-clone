@@ -1,1 +1,1 @@
-<a href="https://siddhant2002.github.io/Amazon-clone/">Click to view the webpage</a>
+<a href="">Click to view the webpage</a>
